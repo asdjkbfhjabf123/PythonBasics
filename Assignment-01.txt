@@ -1,0 +1,20 @@
+Search online for the Python documentation for the len() function. It will be on a web page titled “Built-in Functions.” Skim the list of other functions Python has, look up what the round() function does, and experiment with it in the interactive shell.
+
+Ans> name="Rakesh";
+	len(x);	op=6
+So len() calculates the characters in a string.
+
+Look up the round() and abs() functions on the Internet, and find out what they do. Experiment with them in the interactive shell.
+
+Ans> no=78.963
+	round(no);	op=79
+So round() rounds the no by considering the nos present after decimal.
+	abs(no);	op=78.963
+abs() gives an absolute value of the no.
+
+Similar functions are 
+all()-Returns true if all values match the condition
+any()-Returns true if all values match the condition
+format()-Formats a no. etc
+
+
